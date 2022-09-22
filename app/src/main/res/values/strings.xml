@@ -2,4 +2,5 @@
     <string name="app_name">BasicStateCodelab</string>
     <string name="button_add">Add one</string>
     <string name="count">You\'ve had %1$d glasses.</string>
+    <string name="task_label">Task # %1$d</string>
 </resources>
